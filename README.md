@@ -2,6 +2,7 @@
 ### Snake Game made with JavaScript
 
 
+
 ![Print do Jogo](https://github.com/Gabriel-Vasconcelos/SnakeGame/blob/master/Print.PNG)
 
 
